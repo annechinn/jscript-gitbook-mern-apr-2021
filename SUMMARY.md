@@ -26,26 +26,7 @@
 * [Week 15 - Saturday, July 24th](class-notes/week-15-saturday-july-24th.md)
 * [Week 16 - Wednesday, July 28th](class-notes/week-16-wednesday-july-28th.md)
 
-## extra labs
-
-* [Edabit Practice Problems](extra-labs/edabit-practice-problems.md)
-* [Article Summary - JavaScript](extra-labs/week-9.md)
-* [Reverse a String](extra-labs/reverse-a-string.md)
-* [String Validation](extra-labs/string-validation.md)
-* [James Q Quick Mix](extra-labs/james-q-quick-mix.md)
-* [Vanilla JavaScript Projects](extra-labs/vanilla-javascript-project.md)
-
-## Extra Sessions
-
-* [Thursday, May 20th](extra-sessions/untitled.md)
-* [Monday, May 24th](extra-sessions/monday-may-24th.md)
-
-## Intro <a id="may-15th-class"></a>
-
-* [The Binary Number System](may-15th-class/the-binary-number-system.md)
-* [JavaScript Runtime/Engine](may-15th-class/program-compilation.md)
-
-## Article Grid - JS Updates
+## Article Grid Progression <a id="article-grid-js-updates"></a>
 
 * [Nav Bar - adding active class when clicked](article-grid-js-updates/article-grid.md)
 * [Main Content - updating html to show section name](article-grid-js-updates/main-content-updating-html.md)
@@ -53,8 +34,10 @@
 * [Main Content - adding showcase html](article-grid-js-updates/main-content-adding-showcase-html.md)
 * [Build Site](article-grid-js-updates/build-site.md)
 
-## Fundamentals <a id="first-steps"></a>
+## JS Intro <a id="first-steps"></a>
 
+* [JavaScript Runtime/Engine](first-steps/program-compilation.md)
+* [The Binary Number System](first-steps/the-binary-number-system.md)
 * [Storing Data - Variables](first-steps/variables.md)
 * [Primitive Data Types](first-steps/data-types.md)
 * [Objects](first-steps/objects.md)
@@ -63,7 +46,6 @@
 * [Function Declarations](first-steps/functions.md)
 * [Expressions vs. Statements](first-steps/expressions-vs.-statements.md)
 * [Function Expressions](first-steps/function-expressions.md)
-* [Arrow/Anonymous Functions](first-steps/arrow-anonymous-functions.md)
 * [The Call Stack](first-steps/the-call-stack.md)
 * [Assigning Variables](first-steps/assigning-variables.md)
 * [Scope](first-steps/scope.md)
@@ -77,6 +59,7 @@
 * [Comparison Operators](operators/comparison-operators/README.md)
   * [Relational Operators](operators/comparison-operators/relational-operators.md)
   * [Strict and Loose Equality](operators/comparison-operators/strict-and-loose-equality.md)
+  * [Boolean Practice](operators/comparison-operators/untitled.md)
 * [Logical Operators](operators/logical-operators.md)
 * [Ternary Operator](operators/ternary-operator.md)
 * [typeof Operator](operators/typeof-operator.md)
@@ -112,18 +95,12 @@
 
 * [Objects In-depth](objects/objects.md)
 
-## Exercises
+## ES6
 
----
-
-* [JavaScript in the Browser](introducing-scripts.md)
-* [Event Handlers](event-handlers.md)
-
-## Other
-
-* [Modules](other/modules.md)
-* [Spread Syntax](other/spread-syntax.md)
-* [Destructuring](other/destructuring.md)
+* [Arrow/Anonymous Functions](es6/arrow-anonymous-functions.md)
+* [Modules](es6/modules.md)
+* [Spread Syntax](es6/spread-syntax.md)
+* [Destructuring](es6/destructuring.md)
 
 ## client-server
 
@@ -135,17 +112,21 @@
 * [MongoDB](client-server/mongodb.md)
 * [Asynchronous JavaScript](client-server/asynchronous-javascript.md)
 
-## Important Topics
-
-* [The DOM](important-topics/the-dom.md)
-* [JavaScript on the Server](important-topics/javascript-client-vs-server.md)
+## Other Exercises
 
 ---
 
-* [JavaScript Practice](javascript-practice.md)
+* [JavaScript in the Browser](introducing-scripts.md)
+* [Event Handlers](event-handlers.md)
+* [Article Summary - JavaScript](week-9.md)
+
+## Important Topics
+
+* [The DOM](important-topics/the-dom.md)
 
 ## Resources
 
+* [JavaScript Practice](resources/javascript-practice.md)
 * [Style Guide/Conventions](resources/style-guide-conventions.md)
 * [Resources](resources/resources.md)
 
@@ -156,8 +137,4 @@
 * [Webpack](react/webpack.md)
 * [React Resources](react/stuff.md)
 * [React vs. Angular](react/react-vs.-angular.md)
-
-## TODO
-
-* [Boolean Practice](todo/untitled.md)
 

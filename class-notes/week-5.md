@@ -6,7 +6,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=Yx5Ygn\_P\_u8&list=PLcnK74EfSdzZHjRRW7QfKzEGw3X5lR3tg&index=11" %}
 
-Topics we covered
+### Topics we covered
 
 adding an event handler to an HTML element
 

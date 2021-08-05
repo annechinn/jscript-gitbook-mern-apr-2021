@@ -23,7 +23,7 @@ For now we'll just use fork as a way to copy a repository from my GitHub account
 
 Click the Fork button in the upper-right of the default page for the repo.
 
-![](../.gitbook/assets/image%20%28439%29.png)
+![](.gitbook/assets/image%20%28439%29.png)
 
 #### View the repo in your account
 
@@ -33,7 +33,7 @@ Now, go to your own GitHub home page and look for the new repo you just forked.
 
 Click the Code button and copy the GitHub URL for the repo.
 
-![](../.gitbook/assets/image%20%28432%29.png)
+![](.gitbook/assets/image%20%28432%29.png)
 
 From the command line, or from within VS Code, clone the repository. If you are doing it from the command line, you need to be in your skillspire directory, and then do the command "git clone \[copied-url\]".
 
@@ -43,7 +43,7 @@ The project has two folders: starter and final. You should work in the starter p
 
 We are going to write JavaScript code to change the color of the buttons and add an event handler that will update the main content of the page with information about the showcase article for the selected topic.
 
-![](../.gitbook/assets/image%20%28406%29.png)
+![](.gitbook/assets/image%20%28406%29.png)
 
 #### Setting up functions to process each topic
 
@@ -59,7 +59,7 @@ These relationship properties \(fields\) are how data is stored in a relational 
 
 The image below shows the three database tables that correspond to the three data arrays in our project.
 
-![](../.gitbook/assets/image%20%28430%29.png)
+![](.gitbook/assets/image%20%28430%29.png)
 
 ```javascript
 const topicsData = [
@@ -187,7 +187,7 @@ function initTopic(topicData) {
 }
 ```
 
-![](../.gitbook/assets/image%20%28387%29.png)
+![](.gitbook/assets/image%20%28387%29.png)
 
 Next, add an event handler to each button so that we can respond to the event by calling a function that will build the HTML for the topic that is clicked and and update the main area of the page with the new content.
 

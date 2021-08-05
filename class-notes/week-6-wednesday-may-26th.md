@@ -1,6 +1,6 @@
 # Week 6 - Wednesday, May 26th
 
-Topics covered
+### Topics covered
 
 Primarily focused on arrays and the higher-order methods forEach, filter, and map and arrow/anonymous functions.
 

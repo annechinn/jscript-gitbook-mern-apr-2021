@@ -86,13 +86,13 @@ console.log(APP.otherPriateStuff());
 
 #### ES6 Modules
 
-{% page-ref page="../other/modules.md" %}
+{% page-ref page="../es6/modules.md" %}
 
 ### 
 
 ### Destructuring
 
-{% page-ref page="../other/destructuring.md" %}
+{% page-ref page="../es6/destructuring.md" %}
 
 
 

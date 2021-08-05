@@ -46,7 +46,7 @@ Loop through the properties of the supplied object and print out the name and da
 
 Write a function that prompts the user for the child's height in inches and whether the parent gives permission to go on the ride, and the return whether the child can go on the ride.
 
-![](.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 
 
