@@ -24,3 +24,7 @@ All together, let's review the basic syntax in the following example.
 | 4. It is a tool to manage different versions of edits, made to files in a git repository | 4. It is a space to upload a copy of the **Git** repository |
 | 5. It provides functionalities like Version Control System Source Code Management | 5. It provides functionalities of Git like VCS, Source Code Management as well as adding few of its own features |
 
+![](../.gitbook/assets/image%20%28458%29.png) ![](../.gitbook/assets/image%20%28456%29.png) ![](../.gitbook/assets/image%20%28457%29.png) 
+
+![](../.gitbook/assets/image%20%28457%29.png)
+
